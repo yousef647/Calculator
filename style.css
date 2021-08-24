@@ -1,0 +1,77 @@
+/* html{
+    background-color: black;
+} */
+
+/* h1{
+    color: white;
+} */
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.title{
+    text-align: center;
+}
+
+.w{
+    border: 5px solid lightblue;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.h{
+    border: 5px solid lightblue;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.a{
+    border: 5px solid lightblue;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.ar{
+    border: 5px solid lightblue;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+
+/* .sec{
+    margin-left: 350px;
+    margin-top: 0;
+}*/
+/* .fi{
+    margin-bottom: 400px;
+    margin-top: 20033343px;
+    position: relative;
+} */
+
+span{
+    position: relative;
+    margin-left: 400px;
+    /* margin-bottom: 500px; */
+} 
+
+button{
+    border: 5px solid lightblue;
+    border-radius: 50px;
+    background-color: rgb(41, 194, 199);
+    color: oldlace;
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* text-align: center; */
+    margin-top: 20px;
+    margin-left: 600px;
+}
+div{
+    color: white;
+    text-align: center;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+
+footer{
+    margin-top: 100px;
+    background-color: #323232;
+    text-align: center;
+}
